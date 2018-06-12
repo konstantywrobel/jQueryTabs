@@ -1,2 +1,0 @@
-# jQueryTabs
-jQuery Tabs Nav
